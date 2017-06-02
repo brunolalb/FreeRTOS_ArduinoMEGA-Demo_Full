@@ -1,0 +1,2286 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mulsi3.o)
+                              ./FreeRTOS/Demo/Common/Minimal/death.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodhi4.o)
+                              ./FreeRTOS/Demo/Common/Minimal/QueueSet.o (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodsi4.o)
+                              ./serial/serial.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_divmodsi4.o)
+                              ./FreeRTOS/Demo/Common/Minimal/integer.o (__divmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+                              ./serial/serial.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+                              ./FreeRTOS/Demo/Common/Minimal/flop.o (__subsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                              ./FreeRTOS/Demo/Common/Minimal/flop.o (__mulsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                              ./FreeRTOS/Demo/Common/Minimal/flop.o (__divsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+                              ./FreeRTOS/Demo/Common/Minimal/flop.o (__gtsf2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+                              ./FreeRTOS/Demo/Common/Minimal/flop.o (__floatunsisf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_prologue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_epilogue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o) (__clzsi2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                              ./FreeRTOS/Source/queue.o (memcpy)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(strcmp.o)
+                              ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o (strcmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+xQueueSetSendingTask
+                    0x2               ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xHighPriorityTask   0x2               ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+xMediumPriorityTask
+                    0x2               ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+xHighestPriorityTask
+                    0x2               ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+xCreatedTask        0x2               ./FreeRTOS/Demo/Common/Minimal/death.o
+xQueueSetReceivingTask
+                    0x2               ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xSuspendedTestQueue
+                    0x2               ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+ .text          0x00000000        0x0 ./serial/serial.o
+ .data          0x00000000        0x0 ./serial/serial.o
+ .bss           0x00000000        0x0 ./serial/serial.o
+ .text.vSerialClose
+                0x00000000        0x0 ./serial/serial.o
+ .text.xSerialPutChar
+                0x00000000        0x0 ./serial/serial.o
+ .text.xSerialGetChar
+                0x00000000        0x0 ./serial/serial.o
+ .text.xSerialPortInitMinimal
+                0x00000000        0x0 ./serial/serial.o
+ .text          0x00000000        0x0 ./RegTest/regtest.o
+ .data          0x00000000        0x0 ./RegTest/regtest.o
+ .bss           0x00000000        0x0 ./RegTest/regtest.o
+ .text.xAreRegTestTasksStillRunning
+                0x00000000        0x0 ./RegTest/regtest.o
+ .text.prvRegisterCheck1
+                0x00000000        0x0 ./RegTest/regtest.o
+ .text.prvRegisterCheck2
+                0x00000000        0x0 ./RegTest/regtest.o
+ .text.vStartRegTestTasks
+                0x00000000        0x0 ./RegTest/regtest.o
+ .bss.xRegTestError
+                0x00000000        0x0 ./RegTest/regtest.o
+ .text          0x00000000        0x0 ./ParTest/ParTest.o
+ .data          0x00000000        0x0 ./ParTest/ParTest.o
+ .bss           0x00000000        0x0 ./ParTest/ParTest.o
+ .text.vParTestSetLED
+                0x00000000        0x0 ./ParTest/ParTest.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+ .data          0x00000000        0x0 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+ .text.vPortEndScheduler
+                0x00000000        0x0 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0x0 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .text.xPortGetFreeHeapSize
+                0x00000000        0x0 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .data          0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .text.xCoRoutineRemoveFromEventList
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .text.vCoRoutineSchedule
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .text.vCoRoutineAddToDelayedList
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .text.xCoRoutineCreate
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.pxCurrentCoRoutine
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.uxTopCoRoutineReadyPriority
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.xLastTickCount
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.xPassedTicks
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.xCoRoutineTickCount
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.pxReadyCoRoutineLists
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.xDelayedCoRoutineList1
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.xDelayedCoRoutineList2
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.pxDelayedCoRoutineList
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.pxOverflowDelayedCoRoutineList
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .bss.xPendingReadyCoRoutineList
+                0x00000000        0x0 ./FreeRTOS/Source/croutine.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .data          0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.xEventGroupSync
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000        0x0 ./FreeRTOS/Source/event_groups.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/list.o
+ .data          0x00000000        0x0 ./FreeRTOS/Source/list.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/list.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueueCRReceiveFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueueCRSendFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueueCRReceive
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueueCRSend
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text.vQueueDelete
+                0x00000000        0x0 ./FreeRTOS/Source/queue.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.pcTaskGetName
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.eTaskGetState
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.vTaskDelay
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000        0x0 ./FreeRTOS/Source/tasks.o
+ .text          0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text.vTimerSetTimerID
+                0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text.pvTimerGetTimerID
+                0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text.xTimerIsTimerActive
+                0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text.pcTimerGetName
+                0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text.xTimerGetExpiryTime
+                0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text.xTimerGetPeriod
+                0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00000000        0x0 ./FreeRTOS/Source/timers.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/AbortDelay.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/AbortDelay.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/AbortDelay.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .text.xAreBlockingQueuesStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .text.vStartBlockingQueueTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .text.vBlockingQueueProducer
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .text.vBlockingQueueConsumer
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .bss.sBlockingConsumerCount
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .bss.sBlockingProducerCount
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .bss.sLastBlockingProducerCount.1806
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .bss.sLastBlockingConsumerCount.1805
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .text.xAreEventGroupTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .text.vPeriodicEventGroupsProcessing
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .text.vStartEventGroupTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .text.prvSyncTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .text.prvTestSlaveTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .text.prvTestMasterTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.ulTestMasterCycles
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.ulTestSlaveCycles
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.ulISRCycles
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.ulPreviousISRCycles.1803
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.ulPreviousSetBitCycles.1802
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.ulPreviousWaitBitCycles.1801
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.xISREventGroup
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.xISRTestError.1778
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.xCallCount.1777
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.xSyncTask1
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.xSyncTask2
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .bss.xEventGroup
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .text.xAreGenericQueueTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .text.vStartGenericQueueTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .text.prvMediumPriorityMutexTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .text.prvHighPriorityMutexTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .text.prvLowPriorityMutexTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .text.prvSendFrontAndBackTest
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.ulLoopCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.xErrorDetected
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.ulLoopCounter2
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.ulLastLoopCounter2.1875
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.ulLastLoopCounter.1874
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.ulGuardedVariable
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.xHighPriorityMutexTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .bss.xMediumPriorityMutexTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .text.xAreInterruptSemaphoreTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .text.vInterruptSemaphorePeriodicTest
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .text.vStartInterruptSemaphoreTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .text.vInterruptCountingSemaphoreTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .text.vInterruptMutexMasterTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .text.vInterruptMutexSlaveTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .rodata.xInterruptGivePeriod
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.ulMasterLoops
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xErrorDetected
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.ulCountingSemaphoreLoops
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.ulLastCountingSemaphoreLoops.1856
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.ulLastMasterLoopCounter.1855
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xISRMutex
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xOkToGiveMutex
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xOkToGiveCountingSemaphore
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xISRCountingSemaphore
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xLastGiveTime.1841
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xMasterSlaveMutex
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .bss.xSlaveHandle
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .text.xArePollingQueuesStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .text.vStartPolledQueueTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .text.vPolledQueueProducer
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .text.vPolledQueueConsumer
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .bss.xPollingConsumerCount
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .bss.xPollingProducerCount
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .bss.xPolledQueue.1745
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .text.xAreQueuePeekTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .text.vStartQueuePeekTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .text.prvHighestPriorityPeekTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .text.prvHighPriorityPeekTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .text.prvMediumPriorityPeekTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .text.prvLowPriorityPeekTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .bss.ulLoopCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .bss.xErrorDetected
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .bss.ulLastLoopCounter.1808
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ COMMON         0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .text.xIsQueueOverwriteTaskStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .text.vQueueOverwritePeriodicISRDemo
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .text.vStartQueueOverwriteTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .text.prvQueueOverwriteTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .bss.xISRQueue
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .data.xISRTestStatus
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .bss.ulCallCount.1672
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .bss.ulLoopCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text.xAreQueueSetTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text.prvCheckReceivedValueWithinExpectedRange
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text.prvCheckReceivedValue
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text.vQueueSetAccessQueueSetFromISR
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text.vStartQueueSetTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text.prvQueueSetReceivingTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text.prvQueueSetSendingTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.xSetupComplete
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulCallCount.1848
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .data.xQueueSetTasksStatus
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .data.ulExpectedReceivedFromISR.1856
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulExpectedReceivedFromTask.1855
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.xQueues   0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .data.ulISRTxValue
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.xQueueToWriteTo.1887
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulCycleCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulQueueUsedCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulLastQueueUsedCounter.1783
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulLastISRTxValue.1782
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulLastCycleCounter.1781
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.uxNextRand
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ePriorities.1819
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.ulLoops.1818
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .bss.xQueueSet
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ COMMON         0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .text.xAreQueueSetPollTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .text.vQueueSetPollingInterruptAccess
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .text.vStartQueueSetPollingTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .text.prvQueueSetReceivingTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .bss.ulCycleCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .data.xQueueSetPollStatus
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .bss.ulLastCycleCounter.1779
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .bss.xQueue    0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .bss.ulValueToSend.1769
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .bss.ulCallCount.1768
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .bss.xQueueSet
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.prvISRAutoReloadTimerCallback
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.prvISROneShotTimerCallback
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.xAreTimerDemoTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.vTimerPeriodicISRTests
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.vStartTimerDemoTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.prvAutoReloadTimerCallback
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.prvTimerTestTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text.prvOneShotTimerCallback
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.ucISRAutoReloadTimerCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.ucISROneShotTimerCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.xISRAutoReloadTimer
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.xBasePeriod
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.xISROneShotTimer
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .data.xTestStatus
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .data.uxTick.1941
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.ulLoopCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.xLastCycleFrequency.1749
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.xIterationsWithoutCounterIncrement.1748
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.ulLastLoopCounter.1745
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.ucAutoReloadTimerCounters
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.xAutoReloadTimers
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.xOneShotTimer
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.ucOneShotTimerCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .bss.uxCallCount.2025
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .text.xAreBlockTimeTestTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .text.vCreateBlockTimeTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .text.vSecondaryBlockTimeTestTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .text.vPrimaryBlockTimeTestTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xPrimaryCycles
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xSecondaryCycles
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xErrorOccurred
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xLastSecondaryCycleCount.1758
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xLastPrimaryCycleCount.1757
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xTestQueue
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xSecondary
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .bss.xRunIndicator
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .text.xAreComTestTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .text.vAltStartComTestTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .text.vComRxTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .text.vComTxTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .bss.uxRxLoops
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .bss.uxBaseLED
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/comtest.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .text.xAreCountingSemaphoreTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .text.vStartCountingSemaphoreTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .text.prvDecrementSemaphoreCount
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .text.prvCountingSemaphoreTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .bss.xErrorDetected
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .bss.uxLastCount1.1700
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .bss.uxLastCount0.1699
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .bss.xParameters
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .text.xAreFlashCoRoutinesStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .text.vStartFlashCoRoutines
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .text.prvFlashCoRoutine
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .text.prvFixedDelayCoRoutine
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .data.xCoRoutineFlashStatus
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .rodata.xFlashRates.1486
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .bss.xFlashQueue
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .text.xIsCreateTaskStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .text.vCreateSuicidalTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .text.vCreateTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .text.vSuicidalTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .bss.usCreationCount
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .bss.uxTasksRunningAtStart
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .bss.uxTasksRunningNow.1672
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .data.usLastCreationCount.1670
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ COMMON         0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/death.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text.xAreDynamicPriorityTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text.vStartDynamicPriorityTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text.vQueueReceiveWhenSuspendedTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text.vQueueSendWhenSuspendedTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text.vLimitedIncrementTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text.vCounterControlTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text.vContinuousIncrementTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.usCheckVariable
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.ulExpectedValue
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.xSuspendedQueueSendError
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.xSuspendedQueueReceiveError
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.ulLastExpectedValue.1830
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.usLastTaskCheck.1829
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.ulValueToSend.1805
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.xContinuousIncrementHandle
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.xLimitedIncrementHandle
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .bss.ulCounter
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ COMMON         0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .text.vCompetingMathTask1
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .text.vCompetingMathTask2
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .text.xAreMathsTaskStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .text.vStartMathTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .text.vCompetingMathTask4
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .text.vCompetingMathTask3
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .bss.usTaskCheck
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/flop.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/integer.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/integer.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/integer.o
+ .text.vCompeteingIntMathTask
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/integer.o
+ .text.xAreIntegerMathsTaskStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/integer.o
+ .text.vStartIntegerMathTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/integer.o
+ .bss.xTaskCheck
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/integer.o
+ .text          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .data          0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .bss           0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .text.xAreSemaphoreTasksStillRunning
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .text.vStartSemaphoreTasks
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .text.prvSemaphoreTest
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .bss.sCheckVariables
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .bss.sLastCheckVariables.1794
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .bss.sNextCheckVariable
+                0x00000000        0x0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+ .text          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .text.avr-libc
+                0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(strcmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800200         0x0000fe00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+LOAD ./serial/serial.o
+LOAD ./RegTest/regtest.o
+LOAD ./ParTest/ParTest.o
+LOAD ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+LOAD ./FreeRTOS/Source/portable/MemMang/heap_1.o
+LOAD ./FreeRTOS/Source/croutine.o
+LOAD ./FreeRTOS/Source/event_groups.o
+LOAD ./FreeRTOS/Source/list.o
+LOAD ./FreeRTOS/Source/queue.o
+LOAD ./FreeRTOS/Source/tasks.o
+LOAD ./FreeRTOS/Source/timers.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/AbortDelay.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/comtest.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/countsem.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/crflash.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/death.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/flop.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/integer.o
+LOAD ./FreeRTOS/Demo/Common/Minimal/semtest.o
+LOAD ./main.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libm.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2fb8
+ *(.vectors)
+ .vectors       0x00000000       0xe4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x000000e4                . = ALIGN (0x2)
+                0x000000e4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000e4                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e4                __ctors_start = .
+ *(.ctors)
+                0x000000e4                __ctors_end = .
+                0x000000e4                __dtors_start = .
+ *(.dtors)
+                0x000000e4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e4        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+                0x000000e4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e4       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000f4       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+                0x000000f4                __do_copy_data
+ .init4         0x0000010e       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+                0x0000010e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000011e        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+ *(.init9)
+ *(.text)
+ .text          0x00000126        0x2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+                0x00000126                __vector_38
+                0x00000126                __vector_22
+                0x00000126                __vector_28
+                0x00000126                __vector_1
+                0x00000126                __vector_32
+                0x00000126                __vector_34
+                0x00000126                __vector_24
+                0x00000126                __vector_12
+                0x00000126                __vector_55
+                0x00000126                __vector_46
+                0x00000126                __bad_interrupt
+                0x00000126                __vector_6
+                0x00000126                __vector_31
+                0x00000126                __vector_35
+                0x00000126                __vector_39
+                0x00000126                __vector_3
+                0x00000126                __vector_23
+                0x00000126                __vector_30
+                0x00000126                __vector_45
+                0x00000126                __vector_11
+                0x00000126                __vector_54
+                0x00000126                __vector_13
+                0x00000126                __vector_19
+                0x00000126                __vector_56
+                0x00000126                __vector_7
+                0x00000126                __vector_49
+                0x00000126                __vector_41
+                0x00000126                __vector_43
+                0x00000126                __vector_27
+                0x00000126                __vector_5
+                0x00000126                __vector_33
+                0x00000126                __vector_47
+                0x00000126                __vector_52
+                0x00000126                __vector_37
+                0x00000126                __vector_4
+                0x00000126                __vector_44
+                0x00000126                __vector_51
+                0x00000126                __vector_9
+                0x00000126                __vector_2
+                0x00000126                __vector_21
+                0x00000126                __vector_15
+                0x00000126                __vector_36
+                0x00000126                __vector_29
+                0x00000126                __vector_40
+                0x00000126                __vector_8
+                0x00000126                __vector_48
+                0x00000126                __vector_14
+                0x00000126                __vector_53
+                0x00000126                __vector_10
+                0x00000126                __vector_50
+                0x00000126                __vector_16
+                0x00000126                __vector_18
+                0x00000126                __vector_20
+                0x00000126                __vector_42
+                0x00000128                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_26
+                0x00000128       0x8c ./serial/serial.o
+                0x00000128                __vector_26
+ .text.__vector_25
+                0x000001b4       0xa0 ./serial/serial.o
+                0x000001b4                __vector_25
+ .text.vParTestInitialise
+                0x00000254       0x14 ./ParTest/ParTest.o
+                0x00000254                vParTestInitialise
+ .text.vParTestToggleLED
+                0x00000268       0x2a ./ParTest/ParTest.o
+                0x00000268                vParTestToggleLED
+ .text.pxPortInitialiseStack
+                0x00000292       0x96 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                0x00000292                pxPortInitialiseStack
+ .text.xPortStartScheduler
+                0x00000328       0x80 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                0x00000328                xPortStartScheduler
+ .text.vPortYieldFromTick
+                0x000003a8       0xc8 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                0x000003a8                vPortYieldFromTick
+ .text.__vector_17
+                0x00000470        0x4 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                0x00000470                __vector_17
+ .text.vPortYield
+                0x00000474       0xc0 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                0x00000474                vPortYield
+ .text.vPortFree
+                0x00000534       0x16 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                0x00000534                vPortFree
+ .text.pvPortMalloc
+                0x0000054a       0x62 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                0x0000054a                pvPortMalloc
+ .text.vListInitialise
+                0x000005ac       0x20 ./FreeRTOS/Source/list.o
+                0x000005ac                vListInitialise
+ .text.vListInitialiseItem
+                0x000005cc        0x8 ./FreeRTOS/Source/list.o
+                0x000005cc                vListInitialiseItem
+ .text.vListInsertEnd
+                0x000005d4       0x3e ./FreeRTOS/Source/list.o
+                0x000005d4                vListInsertEnd
+ .text.vListInsert
+                0x00000612       0x64 ./FreeRTOS/Source/list.o
+                0x00000612                vListInsert
+ .text.uxListRemove
+                0x00000676       0x54 ./FreeRTOS/Source/list.o
+                0x00000676                uxListRemove
+ .text.prvUnlockQueue
+                0x000006ca       0x7c ./FreeRTOS/Source/queue.o
+ .text.vQueueWaitForMessageRestricted
+                0x00000746       0x36 ./FreeRTOS/Source/queue.o
+                0x00000746                vQueueWaitForMessageRestricted
+ .text.prvCopyDataToQueue
+                0x0000077c       0x94 ./FreeRTOS/Source/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000810       0x3c ./FreeRTOS/Source/queue.o
+ .text.xQueueReceiveFromISR
+                0x0000084c       0x98 ./FreeRTOS/Source/queue.o
+                0x0000084c                xQueueReceiveFromISR
+ .text.xQueueGenericSendFromISR
+                0x000008e4       0xba ./FreeRTOS/Source/queue.o
+                0x000008e4                xQueueGenericSendFromISR
+ .text.xQueueGenericReceive
+                0x0000099e      0x1b0 ./FreeRTOS/Source/queue.o
+                0x0000099e                xQueueGenericReceive
+ .text.xQueueGenericSend
+                0x00000b4e      0x1b4 ./FreeRTOS/Source/queue.o
+                0x00000b4e                xQueueGenericSend
+ .text.xQueueGenericReset
+                0x00000d02       0x96 ./FreeRTOS/Source/queue.o
+                0x00000d02                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x00000d98       0x60 ./FreeRTOS/Source/queue.o
+                0x00000d98                xQueueGenericCreate
+ .text.vTaskSuspendAll
+                0x00000df8        0xc ./FreeRTOS/Source/tasks.o
+                0x00000df8                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x00000e04       0x16 ./FreeRTOS/Source/tasks.o
+                0x00000e04                xTaskGetTickCount
+ .text.vTaskMissedYield
+                0x00000e1a        0x8 ./FreeRTOS/Source/tasks.o
+                0x00000e1a                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x00000e22       0x1c ./FreeRTOS/Source/tasks.o
+                0x00000e22                xTaskGetSchedulerState
+ .text.xTaskNotifyStateClear
+                0x00000e3e       0x2a ./FreeRTOS/Source/tasks.o
+                0x00000e3e                xTaskNotifyStateClear
+ .text.vTaskSetTimeOutState
+                0x00000e68       0x32 ./FreeRTOS/Source/tasks.o
+                0x00000e68                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00000e9a       0x92 ./FreeRTOS/Source/tasks.o
+                0x00000e9a                xTaskCheckForTimeOut
+ .text.vTaskSwitchContext
+                0x00000f2c       0x90 ./FreeRTOS/Source/tasks.o
+                0x00000f2c                vTaskSwitchContext
+ .text.vTaskNotifyGiveFromISR
+                0x00000fbc       0xca ./FreeRTOS/Source/tasks.o
+                0x00000fbc                vTaskNotifyGiveFromISR
+ .text.xTaskGenericNotifyFromISR
+                0x00001086      0x154 ./FreeRTOS/Source/tasks.o
+                0x00001086                xTaskGenericNotifyFromISR
+ .text.xTaskRemoveFromEventList
+                0x000011da       0x8e ./FreeRTOS/Source/tasks.o
+                0x000011da                xTaskRemoveFromEventList
+ .text.xTaskGenericNotify
+                0x00001268      0x12c ./FreeRTOS/Source/tasks.o
+                0x00001268                xTaskGenericNotify
+ .text.vTaskPrioritySet
+                0x00001394       0xe2 ./FreeRTOS/Source/tasks.o
+                0x00001394                vTaskPrioritySet
+ .text.prvAddCurrentTaskToDelayedList
+                0x00001476       0x82 ./FreeRTOS/Source/tasks.o
+ .text.xTaskNotifyWait
+                0x000014f8      0x10c ./FreeRTOS/Source/tasks.o
+                0x000014f8                xTaskNotifyWait
+ .text.ulTaskNotifyTake
+                0x00001604       0xae ./FreeRTOS/Source/tasks.o
+                0x00001604                ulTaskNotifyTake
+ .text.vTaskPlaceOnEventListRestricted
+                0x000016b2       0x50 ./FreeRTOS/Source/tasks.o
+                0x000016b2                vTaskPlaceOnEventListRestricted
+ .text.vTaskPlaceOnEventList
+                0x00001702       0x42 ./FreeRTOS/Source/tasks.o
+                0x00001702                vTaskPlaceOnEventList
+ .text.xTaskIncrementTick
+                0x00001744      0x1c0 ./FreeRTOS/Source/tasks.o
+                0x00001744                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x00001904      0x128 ./FreeRTOS/Source/tasks.o
+                0x00001904                xTaskResumeAll
+ .text.vTaskDelayUntil
+                0x00001a2c       0xb0 ./FreeRTOS/Source/tasks.o
+                0x00001a2c                vTaskDelayUntil
+ .text.prvIdleTask
+                0x00001adc       0x12 ./FreeRTOS/Source/tasks.o
+ .text.xTaskCreate
+                0x00001aee      0x1ea ./FreeRTOS/Source/tasks.o
+                0x00001aee                xTaskCreate
+ .text.vTaskStartScheduler
+                0x00001cd8       0x6a ./FreeRTOS/Source/tasks.o
+                0x00001cd8                vTaskStartScheduler
+ .text.xTimerGenericCommand
+                0x00001d42       0xb4 ./FreeRTOS/Source/timers.o
+                0x00001d42                xTimerGenericCommand
+ .text.prvCheckForValidListAndQueue
+                0x00001df6       0x62 ./FreeRTOS/Source/timers.o
+ .text.xTimerCreate
+                0x00001e58       0x78 ./FreeRTOS/Source/timers.o
+                0x00001e58                xTimerCreate
+ .text.xTimerCreateTimerTask
+                0x00001ed0       0x4c ./FreeRTOS/Source/timers.o
+                0x00001ed0                xTimerCreateTimerTask
+ .text.prvSampleTimeNow
+                0x00001f1c       0xf4 ./FreeRTOS/Source/timers.o
+ .text.prvInsertTimerInActiveList
+                0x00002010       0x4e ./FreeRTOS/Source/timers.o
+ .text.prvTimerTask
+                0x0000205e      0x224 ./FreeRTOS/Source/timers.o
+ .text.xAreTaskNotificationTasksStillRunning
+                0x00002282       0x94 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                0x00002282                xAreTaskNotificationTasksStillRunning
+ .text.prvRand  0x00002316       0x2a ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .text.xNotifyTaskFromISR
+                0x00002340      0x118 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                0x00002340                xNotifyTaskFromISR
+ .text.vStartTaskNotifyTask
+                0x00002458       0x36 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                0x00002458                vStartTaskNotifyTask
+ .text.prvNotifyingTimer
+                0x0000248e       0x56 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .text.prvNotifiedTask
+                0x000024e4      0x9ce ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .text.vApplicationIdleHook
+                0x00002eb2        0x2 ./main.o
+                0x00002eb2                vApplicationIdleHook
+ .text.vApplicationTickHook
+                0x00002eb4        0x4 ./main.o
+                0x00002eb4                vApplicationTickHook
+ .text.vAssertCalled
+                0x00002eb8        0x6 ./main.o
+                0x00002eb8                vAssertCalled
+ .text.main     0x00002ebe       0x50 ./main.o
+                0x00002ebe                main
+ .text.prvCheckTask
+                0x00002f0e       0x50 ./main.o
+ .text.libgcc   0x00002f5e       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodsi4.o)
+                0x00002f5e                __udivmodsi4
+ .text.avr-libc
+                0x00002fa2       0x12 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                0x00002fa2                memcpy
+                0x00002fb4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002fb4        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+                0x00002fb4                exit
+                0x00002fb4                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002fb4        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002fb8                _etext = .
+
+.data           0x00800200      0x118 load address 0x00002fb8
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200       0x2d ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .data          0x0080022d       0x1b ./FreeRTOS/Source/queue.o
+ .data          0x00800248       0x20 ./FreeRTOS/Source/tasks.o
+ .data          0x00800268       0x24 ./FreeRTOS/Source/timers.o
+ .data          0x0080028c       0x3f ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .data          0x008002cb       0x48 ./main.o
+ *(.data*)
+ .data.xErrorStatus
+                0x00800313        0x1 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .data.pcErrorOK
+                0x00800314        0x2 ./main.o
+                0x00800314                pcErrorOK
+ .data.pcErrorNotification
+                0x00800316        0x2 ./main.o
+                0x00800316                pcErrorNotification
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800318                . = ALIGN (0x2)
+                0x00800318                _edata = .
+                0x00800318                PROVIDE (__data_end, .)
+
+.bss            0x00800318     0x1c08
+                0x00800318                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.xRxedChars
+                0x00800318        0x2 ./serial/serial.o
+ .bss.xCharsForTx
+                0x0080031a        0x2 ./serial/serial.o
+ .bss.ucCurrentOutputValue
+                0x0080031c        0x1 ./ParTest/ParTest.o
+ .bss.xNextFreeByte
+                0x0080031d        0x2 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .bss.pucAlignedHeap.1632
+                0x0080031f        0x2 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .bss.ucHeap    0x00800321     0x1b58 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+ .bss.pxCurrentTCB
+                0x00801e79        0x2 ./FreeRTOS/Source/tasks.o
+                0x00801e79                pxCurrentTCB
+ .bss.uxSchedulerSuspended
+                0x00801e7b        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.uxTopReadyPriority
+                0x00801e7c        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.xYieldPending
+                0x00801e7d        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.xTickCount
+                0x00801e7e        0x2 ./FreeRTOS/Source/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x00801e80        0x2 ./FreeRTOS/Source/tasks.o
+ .bss.xSchedulerRunning
+                0x00801e82        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.xNumOfOverflows
+                0x00801e83        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.uxPendedTicks
+                0x00801e84        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x00801e85        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.xIdleTaskHandle
+                0x00801e86        0x2 ./FreeRTOS/Source/tasks.o
+ .bss.uxTaskNumber
+                0x00801e88        0x1 ./FreeRTOS/Source/tasks.o
+ .bss.pxReadyTasksLists
+                0x00801e89       0x24 ./FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList1
+                0x00801ead        0x9 ./FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList2
+                0x00801eb6        0x9 ./FreeRTOS/Source/tasks.o
+ .bss.pxDelayedTaskList
+                0x00801ebf        0x2 ./FreeRTOS/Source/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x00801ec1        0x2 ./FreeRTOS/Source/tasks.o
+ .bss.xPendingReadyList
+                0x00801ec3        0x9 ./FreeRTOS/Source/tasks.o
+ .bss.xTimerTaskHandle
+                0x00801ecc        0x2 ./FreeRTOS/Source/timers.o
+ .bss.xTimerQueue
+                0x00801ece        0x2 ./FreeRTOS/Source/timers.o
+ .bss.xLastTime.1953
+                0x00801ed0        0x2 ./FreeRTOS/Source/timers.o
+ .bss.xActiveTimerList1
+                0x00801ed2        0x9 ./FreeRTOS/Source/timers.o
+ .bss.xActiveTimerList2
+                0x00801edb        0x9 ./FreeRTOS/Source/timers.o
+ .bss.pxCurrentTimerList
+                0x00801ee4        0x2 ./FreeRTOS/Source/timers.o
+ .bss.pxOverflowTimerList
+                0x00801ee6        0x2 ./FreeRTOS/Source/timers.o
+ .bss.ulNotifyCycleCount
+                0x00801ee8        0x4 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.ulTimerNotificationsSent
+                0x00801eec        0x4 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.ulTimerNotificationsReceived
+                0x00801ef0        0x4 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.ulLastNotifyCycleCount.1710
+                0x00801ef4        0x4 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.xTimer    0x00801ef8        0x2 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.xTaskToNotify
+                0x00801efa        0x2 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.xAPIToUse.1688
+                0x00801efc        0x1 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.xCallCount.1687
+                0x00801efd        0x1 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.uxNextRand
+                0x00801efe        0x2 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+ .bss.pcStatusMessage
+                0x00801f00       0x20 ./main.o
+ *(COMMON)
+                0x00801f20                PROVIDE (__bss_end, .)
+                0x00002fb8                __data_load_start = LOADADDR (.data)
+                0x000030d0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00801f20        0x0
+                0x00801f20                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00801f20                PROVIDE (__noinit_end, .)
+                0x00801f20                _end = .
+                0x00801f20                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x8568
+ *(.stab)
+ .stab          0x00000000      0x84c ./serial/serial.o
+                                0xae0 (size before relaxing)
+ .stab          0x0000084c      0x1c8 ./RegTest/regtest.o
+                               0x12e4 (size before relaxing)
+ .stab          0x00000a14      0x228 ./ParTest/ParTest.o
+                                0x75c (size before relaxing)
+ .stab          0x00000c3c      0x54c ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                                0x9f0 (size before relaxing)
+ .stab          0x00001188      0x294 ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                                0x780 (size before relaxing)
+ .stab          0x0000141c      0x1b0 ./FreeRTOS/Source/croutine.o
+                                0xb34 (size before relaxing)
+ .stab          0x000015cc      0x204 ./FreeRTOS/Source/event_groups.o
+                                0xe64 (size before relaxing)
+ .stab          0x000017d0      0x468 ./FreeRTOS/Source/list.o
+                                0x828 (size before relaxing)
+ .stab          0x00001c38      0xf0c ./FreeRTOS/Source/queue.o
+                               0x1bfc (size before relaxing)
+ .stab          0x00002b44     0x18e4 ./FreeRTOS/Source/tasks.o
+                               0x219c (size before relaxing)
+ .stab          0x00004428      0xc90 ./FreeRTOS/Source/timers.o
+                               0x1374 (size before relaxing)
+ .stab          0x000050b8      0x1bc ./FreeRTOS/Demo/Common/Minimal/AbortDelay.o
+                                0x690 (size before relaxing)
+ .stab          0x00005274      0x1a4 ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                0xa38 (size before relaxing)
+ .stab          0x00005418      0x180 ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+                               0x10f8 (size before relaxing)
+ .stab          0x00005598      0x198 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                               0x1008 (size before relaxing)
+ .stab          0x00005730      0x198 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                0xdbc (size before relaxing)
+ .stab          0x000058c8      0x18c ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                0x900 (size before relaxing)
+ .stab          0x00005a54      0x198 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                0xc30 (size before relaxing)
+ .stab          0x00005bec      0x174 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                0x948 (size before relaxing)
+ .stab          0x00005d60      0x1a4 ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                               0x10b0 (size before relaxing)
+ .stab          0x00005f04      0x18c ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                0x8e8 (size before relaxing)
+ .stab          0x00006090     0x11c4 ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                               0x1644 (size before relaxing)
+ .stab          0x00007254      0x1d4 ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                               0x18e4 (size before relaxing)
+ .stab          0x00007428      0x174 ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                0xedc (size before relaxing)
+ .stab          0x0000759c      0x18c ./FreeRTOS/Demo/Common/Minimal/comtest.o
+                                0x954 (size before relaxing)
+ .stab          0x00007728      0x198 ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                0x9fc (size before relaxing)
+ .stab          0x000078c0      0x174 ./FreeRTOS/Demo/Common/Minimal/crflash.o
+                                0x78c (size before relaxing)
+ .stab          0x00007a34      0x180 ./FreeRTOS/Demo/Common/Minimal/death.o
+                                0x8dc (size before relaxing)
+ .stab          0x00007bb4      0x198 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                0xc00 (size before relaxing)
+ .stab          0x00007d4c      0x180 ./FreeRTOS/Demo/Common/Minimal/flop.o
+                                0xbdc (size before relaxing)
+ .stab          0x00007ecc      0x180 ./FreeRTOS/Demo/Common/Minimal/integer.o
+                                0x780 (size before relaxing)
+ .stab          0x0000804c      0x1b0 ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                0x9fc (size before relaxing)
+ .stab          0x000081fc      0x36c ./main.o
+                                0x93c (size before relaxing)
+
+.stabstr        0x00000000     0x6d7e
+ *(.stabstr)
+ .stabstr       0x00000000     0x6d7e ./serial/serial.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x120
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000020       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000100       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x173
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x2c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000002c       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000004b       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000006a       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x00000088       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x000000aa       0x24 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x000000ce       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x000000ed       0x1f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000010c       0x21 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x0000012d       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x00000153       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x1bac
+ *(.debug_info)
+ .debug_info    0x00000000      0x47a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000047a      0x485 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .debug_info    0x000008ff      0x3fc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .debug_info    0x00000cfb      0x27f c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .debug_info    0x00000f7a      0x12c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .debug_info    0x000010a6      0x206 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x000012ac      0x117 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .debug_info    0x000013c3      0x2df c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .debug_info    0x000016a2      0x251 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .debug_info    0x000018f3      0x210 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00001b03       0xa9 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xef6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1ea c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x000001ea      0x21b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000405      0x216 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x0000061b      0x15a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x00000775       0xad c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000822      0x157 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000979       0xc4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000a3d      0x1c0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000bfd      0x154 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000d51      0x13b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x00000e8c       0x6a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+
+.debug_line     0x00000000      0xe80
+ *(.debug_line)
+ .debug_line    0x00000000      0x2af c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .debug_line    0x000002af      0x239 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .debug_line    0x000004e8      0x1d5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .debug_line    0x000006bd       0xd3 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000790       0x90 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000820      0x133 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000953       0xa5 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .debug_line    0x000009f8      0x18a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000b82      0x14b c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000ccd      0x137 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x00000e04       0x7c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x140
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x40 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000040       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000060       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .debug_frame   0x00000080       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .debug_frame   0x000000e0       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000100       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000120       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2cf
+ *(.debug_str)
+ .debug_str     0x00000000      0x19e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000019e       0x27 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x000001c5       0x35 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x000001fa        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000202       0x21 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x00000223       0x81 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002a4       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002b4        0xb c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002bf       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x844
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x32a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000032a      0x104 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+ .debug_loc     0x0000042e       0xc0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+ .debug_loc     0x000004ee       0x3c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000052a       0x4c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00000576       0x94 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+ .debug_loc     0x0000060a      0x13e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000748       0xac c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x000007f4       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(FreeRTOS_ArduinoMEGA-Demo_Full.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__addsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+__bad_interrupt                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__bss_end                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+__clz_tab                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+__clzsi2                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clzsi2.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+__data_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__data_load_start                                 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__data_start                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__divmodsi4                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_divmodsi4.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/integer.o
+__divsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+__do_clear_bss                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+                                                  ./main.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/integer.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/death.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/croutine.o
+                                                  ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                                                  ./ParTest/ParTest.o
+                                                  ./RegTest/regtest.o
+                                                  ./serial/serial.o
+__do_copy_data                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clz.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+                                                  ./main.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/integer.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/death.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                                                  ./RegTest/regtest.o
+__epilogue_restores__                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_epilogue.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+__floatunsisf                                     c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+__fpcmp_parts_f                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_fpcmp_parts_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+__gtsf2                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+__heap_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__init                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__mulsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+__mulsi3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mulsi3.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/integer.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/death.o
+__pack_f                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_pack_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+__prologue_saves__                                c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_prologue.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+__stack                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__subsf3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+__thenan_sf                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_thenan_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodhi4.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+__udivmodsi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_udivmodsi4.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_divmodsi4.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./serial/serial.o
+__unpack_f                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_unpack_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_gt_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_addsub_sf.o)
+__vector_1                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_10                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_11                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_12                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_13                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_14                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_15                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_16                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_17                                       ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_18                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_19                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_2                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_20                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_21                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_22                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_23                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_24                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_25                                       ./serial/serial.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_26                                       ./serial/serial.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_27                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_28                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_29                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_3                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_30                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_31                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_32                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_33                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_34                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_35                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_36                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_37                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_38                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_39                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_4                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_40                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_41                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_42                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_43                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_44                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_45                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_46                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_47                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_48                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_49                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_5                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_50                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_51                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_52                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_53                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_54                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_55                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_56                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_6                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_7                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_8                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_9                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vector_default                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+__vectors                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+_exit                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+eTaskGetState                                     ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+exit                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+main                                              ./main.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2560.o
+memcpy                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                                                  ./FreeRTOS/Source/queue.o
+pcErrorNotification                               ./main.o
+pcErrorOK                                         ./main.o
+pcTaskGetName                                     ./FreeRTOS/Source/tasks.o
+pcTimerGetName                                    ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+pvPortMalloc                                      ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Source/croutine.o
+pvTimerGetTimerID                                 ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+pxCurrentCoRoutine                                ./FreeRTOS/Source/croutine.o
+pxCurrentTCB                                      ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+pxPortInitialiseStack                             ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                                                  ./FreeRTOS/Source/tasks.o
+strcmp                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(strcmp.o)
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+ulTaskNotifyTake                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+uxListRemove                                      ./FreeRTOS/Source/list.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/croutine.o
+uxQueueMessagesWaiting                            ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+uxQueueMessagesWaitingFromISR                     ./FreeRTOS/Source/queue.o
+uxQueueSpacesAvailable                            ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+uxTaskGetNumberOfTasks                            ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/death.o
+uxTaskPriorityGet                                 ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/death.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+uxTaskResetEventItemValue                         ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/event_groups.o
+vAltStartComTestTasks                             ./FreeRTOS/Demo/Common/Minimal/comtest.o
+vApplicationIdleHook                              ./main.o
+                                                  ./FreeRTOS/Source/tasks.o
+vApplicationTickHook                              ./main.o
+                                                  ./FreeRTOS/Source/tasks.o
+vAssertCalled                                     ./main.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Source/portable/MemMang/heap_1.o
+vCoRoutineAddToDelayedList                        ./FreeRTOS/Source/croutine.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+                                                  ./FreeRTOS/Source/queue.o
+vCoRoutineSchedule                                ./FreeRTOS/Source/croutine.o
+vCreateBlockTimeTasks                             ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+vCreateSuicidalTasks                              ./FreeRTOS/Demo/Common/Minimal/death.o
+vEventGroupClearBitsCallback                      ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vEventGroupDelete                                 ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vEventGroupSetBitsCallback                        ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vInterruptSemaphorePeriodicTest                   ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+vListInitialise                                   ./FreeRTOS/Source/list.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Source/croutine.o
+vListInitialiseItem                               ./FreeRTOS/Source/list.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/croutine.o
+vListInsert                                       ./FreeRTOS/Source/list.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/croutine.o
+vListInsertEnd                                    ./FreeRTOS/Source/list.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/croutine.o
+vParTestInitialise                                ./ParTest/ParTest.o
+                                                  ./main.o
+vParTestSetLED                                    ./ParTest/ParTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+vParTestToggleLED                                 ./ParTest/ParTest.o
+                                                  ./main.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+vPeriodicEventGroupsProcessing                    ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vPortEndScheduler                                 ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                                                  ./FreeRTOS/Source/tasks.o
+vPortFree                                         ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+vPortInitialiseBlocks                             ./FreeRTOS/Source/portable/MemMang/heap_1.o
+vPortYield                                        ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+                                                  ./serial/serial.o
+vPortYieldFromTick                                ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+vQueueDelete                                      ./FreeRTOS/Source/queue.o
+vQueueOverwritePeriodicISRDemo                    ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+vQueueSetAccessQueueSetFromISR                    ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+vQueueSetPollingInterruptAccess                   ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+vQueueWaitForMessageRestricted                    ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/timers.o
+vSerialClose                                      ./serial/serial.o
+vStartBlockingQueueTasks                          ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+vStartCountingSemaphoreTasks                      ./FreeRTOS/Demo/Common/Minimal/countsem.o
+vStartDynamicPriorityTasks                        ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+vStartEventGroupTasks                             ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vStartFlashCoRoutines                             ./FreeRTOS/Demo/Common/Minimal/crflash.o
+vStartGenericQueueTasks                           ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+vStartIntegerMathTasks                            ./FreeRTOS/Demo/Common/Minimal/integer.o
+vStartInterruptSemaphoreTasks                     ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+vStartMathTasks                                   ./FreeRTOS/Demo/Common/Minimal/flop.o
+vStartPolledQueueTasks                            ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+vStartQueueOverwriteTask                          ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+vStartQueuePeekTasks                              ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+vStartQueueSetPollingTask                         ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+vStartQueueSetTasks                               ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+vStartRegTestTasks                                ./RegTest/regtest.o
+vStartSemaphoreTasks                              ./FreeRTOS/Demo/Common/Minimal/semtest.o
+vStartTaskNotifyTask                              ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./main.o
+vStartTimerDemoTask                               ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+vTaskDelay                                        ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/death.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+vTaskDelayUntil                                   ./FreeRTOS/Source/tasks.o
+                                                  ./main.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+vTaskDelete                                       ./FreeRTOS/Demo/Common/Minimal/death.o
+vTaskEndScheduler                                 ./FreeRTOS/Source/tasks.o
+vTaskMissedYield                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+vTaskNotifyGiveFromISR                            ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+vTaskPlaceOnEventList                             ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+vTaskPlaceOnEventListRestricted                   ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+vTaskPlaceOnUnorderedEventList                    ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/event_groups.o
+vTaskPrioritySet                                  ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vTaskResume                                       ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vTaskSetTimeOutState                              ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+vTaskStartScheduler                               ./FreeRTOS/Source/tasks.o
+                                                  ./main.o
+vTaskSuspend                                      ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+vTaskSuspendAll                                   ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                                                  ./ParTest/ParTest.o
+vTaskSwitchContext                                ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+vTimerPeriodicISRTests                            ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+vTimerSetTimerID                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+xAreBlockTimeTestTasksStillRunning                ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+xAreBlockingQueuesStillRunning                    ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+xAreComTestTasksStillRunning                      ./FreeRTOS/Demo/Common/Minimal/comtest.o
+xAreCountingSemaphoreTasksStillRunning            ./FreeRTOS/Demo/Common/Minimal/countsem.o
+xAreDynamicPriorityTasksStillRunning              ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+xAreEventGroupTasksStillRunning                   ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xAreFlashCoRoutinesStillRunning                   ./FreeRTOS/Demo/Common/Minimal/crflash.o
+xAreGenericQueueTasksStillRunning                 ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+xAreIntegerMathsTaskStillRunning                  ./FreeRTOS/Demo/Common/Minimal/integer.o
+xAreInterruptSemaphoreTasksStillRunning           ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+xAreMathsTaskStillRunning                         ./FreeRTOS/Demo/Common/Minimal/flop.o
+xArePollingQueuesStillRunning                     ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+xAreQueuePeekTasksStillRunning                    ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+xAreQueueSetPollTasksStillRunning                 ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+xAreQueueSetTasksStillRunning                     ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xAreRegTestTasksStillRunning                      ./RegTest/regtest.o
+xAreSemaphoreTasksStillRunning                    ./FreeRTOS/Demo/Common/Minimal/semtest.o
+xAreTaskNotificationTasksStillRunning             ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./main.o
+xAreTimerDemoTasksStillRunning                    ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+xCoRoutineCreate                                  ./FreeRTOS/Source/croutine.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+xCoRoutineRemoveFromEventList                     ./FreeRTOS/Source/croutine.o
+                                                  ./FreeRTOS/Source/queue.o
+xCreatedTask                                      ./FreeRTOS/Demo/Common/Minimal/death.o
+xEventGroupClearBits                              ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xEventGroupCreate                                 ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xEventGroupGetBitsFromISR                         ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xEventGroupSetBits                                ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xEventGroupSync                                   ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xEventGroupWaitBits                               ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xHighPriorityTask                                 ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+xHighestPriorityTask                              ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+xInterruptGivePeriod                              ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+xIsCreateTaskStillRunning                         ./FreeRTOS/Demo/Common/Minimal/death.o
+xIsQueueOverwriteTaskStillRunning                 ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+xMediumPriorityTask                               ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+xNotifyTaskFromISR                                ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./main.o
+xPortGetFreeHeapSize                              ./FreeRTOS/Source/portable/MemMang/heap_1.o
+xPortStartScheduler                               ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+                                                  ./FreeRTOS/Source/tasks.o
+xQueueAddToSet                                    ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xQueueCRReceive                                   ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+xQueueCRReceiveFromISR                            ./FreeRTOS/Source/queue.o
+xQueueCRSend                                      ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+xQueueCRSendFromISR                               ./FreeRTOS/Source/queue.o
+xQueueCreateCountingSemaphore                     ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+xQueueCreateMutex                                 ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+xQueueCreateSet                                   ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xQueueGenericCreate                               ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/crflash.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./serial/serial.o
+xQueueGenericReceive                              ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./serial/serial.o
+xQueueGenericReset                                ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+xQueueGenericSend                                 ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./serial/serial.o
+xQueueGenericSendFromISR                          ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./serial/serial.o
+xQueueGiveFromISR                                 ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+xQueueIsQueueEmptyFromISR                         ./FreeRTOS/Source/queue.o
+xQueueIsQueueFullFromISR                          ./FreeRTOS/Source/queue.o
+xQueuePeekFromISR                                 ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+xQueueReceiveFromISR                              ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./serial/serial.o
+xQueueRemoveFromSet                               ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xQueueSelectFromSet                               ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xQueueSelectFromSetFromISR                        ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xQueueSetReceivingTask                            ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xQueueSetSendingTask                              ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+xRegTestError                                     ./RegTest/regtest.o
+xSerialGetChar                                    ./serial/serial.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+xSerialPortInitMinimal                            ./serial/serial.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+xSerialPutChar                                    ./serial/serial.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+xSuspendedTestQueue                               ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+xTaskCheckForTimeOut                              ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+xTaskCreate                                       ./FreeRTOS/Source/tasks.o
+                                                  ./main.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/semtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/integer.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/flop.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/death.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/countsem.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSetPolling.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueSet.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QueueOverwrite.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/QPeek.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/PollQ.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/GenQTest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/BlockQ.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./RegTest/regtest.o
+xTaskGenericNotify                                ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+xTaskGenericNotifyFromISR                         ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+xTaskGetCurrentTaskHandle                         ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
+xTaskGetSchedulerState                            ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+xTaskGetTickCount                                 ./FreeRTOS/Source/tasks.o
+                                                  ./main.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/comtest.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/blocktim.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/croutine.o
+xTaskGetTickCountFromISR                          ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/IntSemTest.o
+xTaskIncrementTick                                ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/portable/WinAVR/ATmega2560/port.o
+xTaskNotifyStateClear                             ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+xTaskNotifyWait                                   ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+xTaskRemoveFromEventList                          ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/queue.o
+xTaskRemoveFromUnorderedEventList                 ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Source/event_groups.o
+xTaskResumeAll                                    ./FreeRTOS/Source/tasks.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/dynamic.o
+                                                  ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/queue.o
+                                                  ./FreeRTOS/Source/event_groups.o
+                                                  ./FreeRTOS/Source/portable/MemMang/heap_1.o
+                                                  ./ParTest/ParTest.o
+xTimerCreate                                      ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+xTimerCreateTimerTask                             ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Source/tasks.o
+xTimerGenericCommand                              ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TaskNotify.o
+xTimerGetExpiryTime                               ./FreeRTOS/Source/timers.o
+xTimerGetPeriod                                   ./FreeRTOS/Source/timers.o
+xTimerGetTimerDaemonTaskHandle                    ./FreeRTOS/Source/timers.o
+xTimerIsTimerActive                               ./FreeRTOS/Source/timers.o
+                                                  ./FreeRTOS/Demo/Common/Minimal/TimerDemo.o
+xTimerPendFunctionCallFromISR                     ./FreeRTOS/Demo/Common/Minimal/EventGroupsDemo.o
